@@ -76,3 +76,5 @@ export BROWSER="/mnt/c/Program Files/Mozilla Firefox/firefox.exe"
 export GH_BROWSER="'/mnt/c/Program Files/Mozilla Firefox/firefox.exe'"
 export BROWSER="/mnt/c/Program Files (x86)/Mozilla Firefox/firefox.exe"
 export GH_BROWSER="'/mnt/c/Program Files (x86)/Mozilla Firefox/firefox.exe'"
+sudo /etc/init.d/postgresql start
+sudo /etc/init.d/postgresql start
